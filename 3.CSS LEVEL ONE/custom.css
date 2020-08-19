@@ -1,0 +1,10 @@
+h1{
+color : red;
+/*border-color: darkgreen;
+border-width: 5px;
+border-style: dotted;*/
+border: darkgreen 5px solid;
+}
+body{
+  background: pink;
+}

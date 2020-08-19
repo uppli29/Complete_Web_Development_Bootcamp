@@ -1,0 +1,10 @@
+p{
+
+  font-family: 'Lakki Reddy', cursive;
+}
+p:first-letter{
+  font-size: 100px;
+}
+h1{
+  font-family: 'Lilita One', cursive;
+}

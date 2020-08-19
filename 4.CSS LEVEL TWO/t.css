@@ -1,0 +1,21 @@
+td
+{
+	width: 100px;
+	height: 100px;
+	/*background: blue;*/]
+
+}
+.vertical{
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+}
+.horiz{
+	border-bottom: 1px solid black;
+	border-top: 1px solid black;
+}
+table{
+	margin : auto;
+}
+h1{
+	text-align: center;
+}

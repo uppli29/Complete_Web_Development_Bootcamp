@@ -1,0 +1,55 @@
+body {
+background: #f5d9df;
+font-family: "Nunito";
+}
+
+#mainNavbar .navbar-brand{
+ color: #EA1C2C;  
+ 
+ font-size: 1.5rem; 
+ font-weight: 100;
+ 
+}
+
+#mainNavbar .nav-link{
+color: white;
+
+}
+#mainNavbar .nav-link:hover
+{
+color: #EA1C2C;
+}
+
+#mainNavbar{
+    font-size: 1.5rem; 
+ font-weight: 100;
+}
+
+#mainSection span{
+    color: red;
+}
+#mainSection h1{
+    font-weight: 100;
+    font-size: 3rem;
+}
+@media(max-width:1200px){
+#mainSection h1{
+    font-size: 2.5rem;
+}
+}
+
+.milk h2{
+    color: #EA1C2C;
+    font-weight: 100;
+    font-size: 2.5rem;
+}
+.milk p{
+    color: #ff4499  ;
+    font-weight: 1.25rem;
+    line-height: 2;
+}
+
+.content
+{
+    margin-top: 100px;
+}

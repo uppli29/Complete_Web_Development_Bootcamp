@@ -1,0 +1,18 @@
+h1{
+  color: #651c70;
+}
+h4{
+  color : violet;
+}
+ul{
+  color: rgb(200,0,200);
+}
+ol{
+  background: black;
+  color : rgba(200,3,99,1);
+}
+body {
+  background: url(https://freefrontend.com/assets/img/css-background-patterns/css-lattice-pattern.png);
+  /*background-repeat: no-repeat;*/
+  background-size: cover;
+}

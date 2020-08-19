@@ -1,0 +1,28 @@
+* for every element
+*{
+  border : 1px solid lightgrey
+}
+
+Descendant selection
+
+li a{ /* every anchor tag inside li
+  border : 1px solid grey
+}
+
+Adjacent selection
+
+h4 + ul{ /* heading4 followed by ul
+  border : 1px solid green;
+}
+
+Atttribute selection
+
+a[href]="https://www.google.com"{ /*every anchor tag containing the href
+  background : blue;
+}
+
+nth selection
+
+li:nth-of-type(2){ /*every 2nd li element
+  background : blue;
+}

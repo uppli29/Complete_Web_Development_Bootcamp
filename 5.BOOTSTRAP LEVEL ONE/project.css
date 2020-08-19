@@ -1,0 +1,30 @@
+.content{
+	text-align: center;
+	padding-top: 25%;
+	
+	/*color: white;*/
+}
+html{
+	height: 100%;
+}
+h1{
+	font-weight: 700;
+	font-size: 5em;
+}
+p{
+	font-size: 20px;
+}
+
+body{
+	background-image: url(https://images.unsplash.com/photo-1488998427799-e3362cec87c3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80);
+	/*background-image: url(https://i1.wp.com/mynexttablet.com/wp-content/uploads/2019/09/samsung-galaxy-tab-s6-with-s-pen-stylus.jpg?resize=740%2C416&ssl=1);*/
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+		font-family: 'Lato', sans-serif;
+}
+hr{
+	width: 800px;
+	border-top: 2px solid black;
+	border-bottom: 2px solid rgba(0,0,0,0.2);
+}

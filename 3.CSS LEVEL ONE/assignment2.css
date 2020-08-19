@@ -1,0 +1,30 @@
+body{
+  background-color: skyblue;
+}
+
+h1{
+  border: 2px solid black;
+}
+#p1{
+  background-color: gold;
+}
+#he1{
+  color : purple;
+}
+#li1{
+  text-decoration: overline;
+  color : purple;
+}
+.te{
+  background-color: white;
+  border : 2px solid black;
+  width: 800px;
+  height: 400px;
+}
+input{
+  border:2px solid red;
+}
+.last{
+  background-color: blue;
+  border:4px dashed yellow;
+}

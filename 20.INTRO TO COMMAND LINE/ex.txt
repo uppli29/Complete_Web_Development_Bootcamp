@@ -1,0 +1,15 @@
+1.MAKE A FOLDER NAMED "Animals"
+
+2.INSIDE OF "Animals" add 2 directories "AwesomeAnimals" and "SketchyAnimals"
+
+3.Inside of "AwesomeAnimals" add the following files "copybara.js" ,"Arctifox.js"
+
+4.Inside of "SketchyAnimals" add the following files "BrownRecluse.html" and "BulletAnt.js"
+
+5.Also inside of "SketchyAnimals" creat a "Snakes" directory snake are extra Sketchy
+
+6.Inside of "snakes" directory create following files :"cobra.css" and "ReticulatedPython.py"
+
+7.You have a chnage of heart and decide that BulletAnt are no linger sketchy .Remove the "BulletAnt.js"
+
+8."All animals life goes extinct . Delete the entire "Animals" directory

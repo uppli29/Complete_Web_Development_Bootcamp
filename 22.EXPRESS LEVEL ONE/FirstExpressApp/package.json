@@ -1,0 +1,15 @@
+{
+  "name": "routerdemo",
+  "version": "1.0.0",
+  "description": "checking out router params",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "upplee",
+  "license": "ISC"
+}

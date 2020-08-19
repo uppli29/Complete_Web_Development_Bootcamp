@@ -1,0 +1,66 @@
+body,html{
+height: 100%;
+margin: 0;
+font-size: 16px;
+font-family: "Lato",sans-serif;
+font-weight: 400;
+line-height: 1.8em;
+color: #666;
+}
+
+.pic1, .pic2, .pic3{
+  position: relative;
+  opacity: 0.80;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.pic1{
+  background-image: url('https://images.pexels.com/photos/378570/pexels-photo-378570.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+  min-height: 100%;
+}
+
+.pic2{
+  background-image: url('https://images.pexels.com/photos/3183183/pexels-photo-3183183.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+  min-height: 400px;
+}
+
+.pic3{
+  background-image: url('https://images.pexels.com/photos/135018/pexels-photo-135018.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+  min-height: 400px;
+}
+
+
+.sec-light{
+  text-align: center;
+  padding: 50px 80px;
+  background-color: #f4f4f4;
+  color: #666;
+}
+
+.sec-dark{
+  text-align: center;
+  padding: 50px 80px;
+  background-color: #282e34;
+  color: #ddd;
+}
+.ptext1{
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  color: #000;
+  font-size: 17px;
+  letter-spacing: 8px;
+  text-transform: uppercase;
+}
+.ptext1 .border{
+  background-color: #111;
+  color: #fff;
+  padding: 20px;
+}
+.ptext1 .border.trans{
+  background-color: transparent;
+}

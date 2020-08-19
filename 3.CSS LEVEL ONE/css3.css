@@ -1,0 +1,12 @@
+body{
+  background: orange;
+}
+#htm {
+  color: red;
+}
+#java{
+  color: white;
+}
+.completed{
+  text-decoration: line-through;
+}

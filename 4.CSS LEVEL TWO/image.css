@@ -1,0 +1,22 @@
+img{
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+}
+
+p{
+	font-family: 'Modak', cursive;
+	color: black;
+	font-size: 40px;
+	margin: 1.66%;
+	border: 5px solid black;
+	padding-left: 50px;
+	width: 50%;
+	background: white;
+	text-transform: uppercase;
+	text-decoration: underline;
+}
+body
+{
+	background: url(https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero-00e10b1f.jpg);
+}
